@@ -1,1 +1,5 @@
 *.{apk,jar,pptx} filter=lfs diff=lfs merge=lfs -text
+unity/** linguist-documentation=false
+unity/** linguist-vendored=false
+android/** linguist-documentation=false
+android/** linguist-vendored=false
