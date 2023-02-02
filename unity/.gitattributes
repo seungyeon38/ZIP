@@ -1,2 +1,2 @@
-androidBuild/linguist-documentation=true
+androidBuild/** linguist-documentation=true
 androidBuild/** linguist-vendored=true
