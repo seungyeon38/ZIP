@@ -5,3 +5,6 @@ unity/** linguist-vendored=false
 
 android/** linguist-documentation=false
 android/** linguist-vendored=false
+
+backend/** linguist-documentation=false
+backend/** linguist-vendored=false
