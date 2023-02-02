@@ -2,3 +2,6 @@
 
 android/** linguist-documentation=false
 android/** linguist-vendored=false
+
+unity/** linguist-documentation=true
+unity/** linguist-vendored=true
