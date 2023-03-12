@@ -101,7 +101,6 @@ SSAFY 7기 2학기 자율프로젝트 - ZIP
 - Springboot : 2.7.3
 - Gradle : 7.5
 
-- 
 
 **Frontend  - Android Studio(kotlin)**
 
